@@ -1,4 +1,4 @@
-package dp;
+package src.dp;
 
 public class HouseRobber {
 

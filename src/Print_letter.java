@@ -1,3 +1,5 @@
+package src;
+
 import java.util.stream.IntStream;
 
 public class Print_letter implements Runnable {
@@ -30,7 +32,7 @@ public class Print_letter implements Runnable {
     }
 
     public static void main(String[] args) {
-        // Print_letter t = new Print_letter();
+        // src.Print_letter t = new src.Print_letter();
         // Thread t1 = new Thread(t);
         // Thread t2 = new Thread(t);
         // t1.start();
